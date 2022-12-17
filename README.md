@@ -1,5 +1,4 @@
 # Edu-s-SQL-ORACLE11G #
-## DCL
 
 ### Datasets creation
 
